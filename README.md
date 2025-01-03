@@ -1,4 +1,6 @@
 # Torch-GA: building Geometric Algebra Networks in PyTorch
+<img src="https://zenodo.org/badge/886898946.svg">
+
 <p align="center">
   <img src="https://github.com/albertomariapepe/Torch-GA/blob/main/logo.tiff?raw=true" width="250" height="250">
 </p>
@@ -8,6 +10,7 @@ Python package for Geometric / Clifford Algebra in PyTorch, adapted from [Tensor
 This project allows to build basic layers in Geometric / Clifford Algebra of **any dimensionality**. 
 
 You are more than welcome to expand and contribute with new types of layers.
+
 
 ## Requirements
 
@@ -133,8 +136,9 @@ Please remember to cite!
 @software{torchga,
   author       = {Pepe, Alberto},
   title        = {Torch-GA: building Geometric Algebra Networks in PyTorch},
-  publisher    = {Github},
-  url          = {https://github.com/albertomariapepe/Torch-GA}
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.14592732},
+  url          = {https://doi.org/10.5281/zenodo.14592732}
 }
 ```
 
