@@ -10,4 +10,4 @@ This project allows to build basic some layers in Geometric / Clifford Algebra i
 You are more than welcome to expand and contribute with new type of layers.
 
 ## Install
-  <img src="https://github.com/albertomariapepe/Torch-GA/blob/main/logo.tiff?raw=true" width="20" height="20"> ```pip install torchga```
+  <img src="https://github.com/albertomariapepe/Torch-GA/blob/main/logo.tiff?raw=true" width="20" height="20"> ```pip install  torch_ga_layers```
