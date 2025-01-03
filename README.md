@@ -62,7 +62,7 @@ s_indices = [0]
 v_indices = [1, 2]
 mv_indices = torch.arange(0, ga.num_blades)
 
-#defining the architecture: from triplets 2D points (i.e. vectors) defining a triangle --> single scalar area
+#defining the architecture: from 3 2D points (i.e. vectors) defining a triangle --> 1 scalar area
 model = nn.Sequential(
     TensorToGeometric(ga, blade_indices=v_indices),
     GeometricProductDense(
