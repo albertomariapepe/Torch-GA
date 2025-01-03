@@ -124,3 +124,27 @@ print("Model(Samples):", model(sample_points).shape)
 <img src="https://github.com/albertomariapepe/Torch-GA/blob/main/logo.tiff?raw=true" width="10" height="10"> [1D Convolutions with Torch-GA](https://github.com/albertomariapepe/Torch-GA/blob/main/tests/torchga_test_conv.ipynb)
 
 <img src="https://github.com/albertomariapepe/Torch-GA/blob/main/logo.tiff?raw=true" width="10" height="10"> [Projective Geometric Algebra](https://github.com/albertomariapepe/Torch-GA/blob/main/tests/torchga_test_pga.ipynb)
+
+## Found it useful?
+
+Please remember to cite!
+
+```
+@software{torchga,
+  author       = {Pepe, Alberto},
+  title        = {Torch-GA: building Geometric Algebra Networks in PyTorch},
+  publisher    = {Github},
+  url          = {https://github.com/albertomariapepe/Torch-GA}
+}
+```
+
+```
+@software{python_tfga,
+  author       = {Kahlow, Robin},
+  title        = {TensorFlow Geometric Algebra},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.3902404},
+  url          = {https://doi.org/10.5281/zenodo.3902404}
+}
+```
+
