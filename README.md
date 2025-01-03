@@ -7,7 +7,7 @@
 
 Python package for Geometric / Clifford Algebra in PyTorch, adapted from [Tensorflow GA](https://github.com/RobinKa/tfga).
 
-This project allows to build basic layers in Geometric / Clifford Algebra of **any dimensionality**. 
+This project allows to build basic layers in Geometric / Clifford Algebra of **any dimensionality**. The grade of weights and biases of each layer is also fully customisable.
 
 You are more than welcome to expand and contribute with new types of layers.
 
